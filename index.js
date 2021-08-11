@@ -40,7 +40,7 @@ function makeSound(key){
         var crash=new Audio("sounds/crash.mp3");
         crash.play();
         break;
-    case "k":
+    case "l":
         var kick=new Audio("sounds/kick-bass.mp3");
         kick.play();
         break;
